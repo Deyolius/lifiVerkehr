@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Informationen>
+	<Autoinformationen>
+		<Geschwindigkeit> ... </Geschwindigkeit>
+		<Abstand> ... </Abstand>
+		<Aktuelle_Position> ... </Aktuelle_Position>
+		<Voraussichtliche_Position> ... </Voraussichtliche_Position>
+	</Autoinformationen>
+
+	<StraĆeninformationen>
+		<Anzahl_fahrende_Autos> ... </Anzahl_fahrende_Autos>
+		<Hindernisse> ... </Hindernisse>
+		<Fahrbahnschaden> ... </Fahrbahnschaden>
+		<Fahrbahnverengung> ... </Fahrbahnverengung>
+		<Unfall> ... </Unfall>
+	</StraĆeninformationen>
+	
+</Informationen>
